@@ -2,7 +2,8 @@
 
 <img src="images/logo.png" width="256" alt='logo'> -->
 
-## Viet Instruments
+## Demo App
+https://drive.google.com/file/d/1cOljeF4BALkEyLujZoB6tO1V1zpUH9lr/view?usp=drivesdk
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -48,7 +49,7 @@ Explore and experience traditional instruments of Vietnam from the three regions
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/akiyamahaa/expo-tech-app.git
+git clone https://github.com/NectLevel29/Viet-Instruments.git
 cd expo-tech-app
 yarn
 yarn start
