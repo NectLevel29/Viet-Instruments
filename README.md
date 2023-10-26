@@ -2,7 +2,7 @@
 
 <img src="images/logo.png" width="256" alt='logo'> -->
 
-## Demo App
+## Viet Instruments
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -15,12 +15,12 @@
 
 ## About
 
-Explore and experience traditional music of the three regions of North, Central and South Vietnam with the Vietnamese Folk Instruments application. This is a priceless musical treasure, synthesizing hundreds of types of folk instruments and unique traditional music from across the country.
+Explore and experience traditional instruments of Vietnam from the three regions of North, Central and South Vietnam with the Viet Instruments application. The app empowers users to access detailed information, high-quality imagery, and audio samples, offering a rich exploration of these cultural treasures
 
 ## Features
 - Search
 - Audio
-- Interesting Things
+- Interesting Facts
 
 ## Screenshots
 
