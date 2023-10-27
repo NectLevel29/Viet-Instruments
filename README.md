@@ -50,6 +50,6 @@ Explore and experience traditional instruments of Vietnam from the three regions
 
 ```bash
 git clone https://github.com/NectLevel29/Viet-Instruments.git
-cd expo-tech-app
+cd Viet Instruments
 yarn
 yarn start
